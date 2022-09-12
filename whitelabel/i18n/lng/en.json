@@ -1,0 +1,15 @@
+{
+    "rarityPrice": "Rarity Price :",
+    "totalBids": "Total Bids :",
+    "popularity": "Popularity :",
+    "topBid":"Top Bid",
+    "ownedBy":"Owned By : ",
+    "followers":" Followers",
+    "details":"Details ",
+    "description":"Description  ",
+    "tokenType":"Token Type : ",
+    "blockchain":"Blockchain : ",
+    "popularityDescription":"Polularity is based on the popularity calculation.",
+    "createdBy":"Creaeted By : ",
+    "floorPrice":"Floor Price  "
+  }

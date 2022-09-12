@@ -1,0 +1,16 @@
+{
+    "rarityPrice": "zeldzaamheid Prijs :",
+    "totalBids": "totale biedingen :",
+    "popularity": "populariteit :",
+    "topBid":"hoogste bod",
+    "ownedBy":"Eigentümer : ",
+    "followers":"Anhänger",
+    "details":"Einzelheiten",
+    "description":"Bezeichnung ",
+    "tokenType":"Token-Typ : ",
+    "blackchain":"Blockchain : ",
+    "popularityDescription":"La popularité est basée sur le calcul de la popularité.",
+    "createdBy":"erstellt von : ",
+    "floorPrice":"Bodenpreis  "
+
+  }

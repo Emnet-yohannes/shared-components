@@ -1,0 +1,17 @@
+{
+    "rarityPrice":"prix de rareté :",
+    "totalBids":"offres totales",
+    "popularity":"popularité",
+    "topBid":"meilleure enchère",
+    "ownedBy":"propriétaire : ",
+    "followers":" disciple",
+    "details":"détails ",
+    "description":"La description ",
+    "tokenType":"type de jeton : ",
+    "blockchain":"Blockchain : ",
+    "popularityDescription":"La popularité est basée sur le calcul de la popularité. ",
+    "createdBy":"créé par : ",
+    "floorPrice":"prix plancher "
+
+
+  }
