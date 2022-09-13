@@ -11,13 +11,15 @@
   "dependencies": {
     "@popperjs/core": "^2.11.6",
     "@types/lodash.clamp": "^4.0.7",
+    "@types/styled-components": "^5.1.26",
     "clsx": "^1.2.1",
     "lodash": "^4.17.21",
     "next": "12.3.0",
     "next-share": "^0.18.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-i18next": "^11.18.5"
+    "react-i18next": "^11.18.5",
+    "styled-components": "^5.3.5"
   },
   "devDependencies": {
     "@types/node": "18.7.16",
